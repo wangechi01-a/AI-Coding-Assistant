@@ -1,0 +1,11 @@
+[MASTER]
+ignore=venv
+persistent=yes
+load-plugins=pylint_django
+
+[MESSAGES CONTROL]
+disable=C0114,  # Missing module docstring
+        C0116,  # Missing function or method docstring
+
+[FORMAT]
+max-line-length=100

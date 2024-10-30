@@ -1,0 +1,26 @@
+{
+  "name": "ai-coding-assistant",
+  "displayName": "AI Coding Assistant",
+  "description": "A VS Code extension that provides linting and code suggestions using AI.",
+  "version": "0.0.1",
+  "publisher": "Eunice Muriithi",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "activationEvents": [
+    "onCommand:ai-linter.startLinting"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "ai-linter.startLinting",
+        "title": "Start AI Linting"
+      }
+    ]
+  },
+  "dependencies": {
+    "vscode": "^1.62.0",
+    "net": "^1.0.2"
+  }
+}
