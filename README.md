@@ -11,10 +11,8 @@ This project is an AI-powered coding assistant built using a Retrieval-Augmented
 - [Usage](#usage)
 - [Data Ingestion](#data-ingestion)
 - [Querying the Assistant](#querying-the-assistant)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
