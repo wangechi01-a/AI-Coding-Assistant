@@ -30,7 +30,7 @@ The AI Coding Assistant leverages FAISS (Facebook AI Similarity Search) for effi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wangechi01-a/ai-coding-assistant.git
+   git clone https://github.com/your_username/ai-coding-assistant.git
    cd ai-coding-assistant
    ```
 
