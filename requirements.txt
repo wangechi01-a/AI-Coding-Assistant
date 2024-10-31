@@ -2,5 +2,7 @@ torch
 streamlit
 transformers
 langchain
+langchain_community
+langchain_huggingface
 faiss-cpu
 sentense-transformers
